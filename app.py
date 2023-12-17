@@ -30,7 +30,7 @@ st.sidebar.image("logo-normal.png")
     #"Task Type:", ['Segmentation'])
 
 confidence = float(st.sidebar.slider(
-    "Select Model Confidence", 25, 100, 40)) / 100
+    "Select Model Confidence", 10, 100, 30)) / 100
 
 # # Selecting Detection Or Segmentation
 # if model_type == 'Detection':
