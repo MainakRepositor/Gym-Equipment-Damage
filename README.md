@@ -1,3 +1,4 @@
-# Surface Corrosion, Rust and Defect Segmentation
+# Gym Equipment Corrosion, Rust and Defect Segmentation
 
-![image](https://github.com/MainakRepositor/Surface-Corrosion-Segmentation/assets/64016811/1f38fee1-7442-4b09-9c12-ce3889f237bb)
+![image](https://github.com/MainakRepositor/Gym-Equipment-Damage/assets/64016811/7bfcf77b-60cf-44ad-b23d-3e8ead9a979c)
+
